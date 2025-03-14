@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(120, 21, 150);
+    background-repeat: no-repeat;
+    margin: 0%;
+    
+}
+.box{
+    background-color: rgba(0, 0, 0, 0.473);
+    width: 200px;
+    height: 350px;
+    border: 1px solid rgba(0, 0, 0, 0.473);
+    border-radius: 2%;
+    margin-top: 60px;
+}
+.head{
+    color: rgb(255, 7, 7);
+    
+    size-adjust: 300px;
+}
+.label{
+   color: white;
+   padding-right: 140px;
+   font-family:monospace;
+}
+.label1{
+    color: white;
+    padding-right: 135px;
+    font-family:monospace;
+}
+
+.password{
+    color: white;
+    padding-right: 110px;
+    font-family:monospace;
+}
+.pic{
+ width: 30px;
+ height: 30px;
+ border: 2px solid ; 
+ border-radius: 100%;
+ margin: 20px;
+}
+.sub{
+    color: white;
+    width: 100px;
+    margin-top: 15px;
+    background-color: red;
+    border-radius: 12px ;
+    border: 1px solid black
+}
+.block{
+    background-color:rgba(0, 0, 0, 0.329);
+    width: 150px;
+    height: 45px;
+    margin-top: 3px;
+    border-radius: 5%;
+}
+.inter{
+    font-size: 6px;
+    color: white;
+}
